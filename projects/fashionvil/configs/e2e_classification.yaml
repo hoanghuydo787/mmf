@@ -70,7 +70,7 @@ run_type: train_val
 
 checkpoint:
   resume_pretrained: true
-  resume_file: save/fashionvil_e2e_pretrain_baseline/best.ckpt
+  resume_file: save/fashionvil_e2e_pretrain_final/fashionvil_final.pth
   pretrained_state_mapping:
     image_encoder: image_encoder
     model.bert: model.bert

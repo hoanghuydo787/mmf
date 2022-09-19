@@ -46,7 +46,7 @@ evaluation:
   - r@k_ocir
 
 training:
-  experiment_name: polyvore_csa_disjoint_icc_pac
+  experiment_name: polyvore_csa_disjoint_final
   batch_size: 64
   lr_scheduler: true
   max_updates: 8000
@@ -63,6 +63,6 @@ run_type: train_val
 
 checkpoint:
   resume_pretrained: true
-  resume_file: save/fashionvil_e2e_pretrain_icc_pac/best.ckpt
+  resume_file: save/fashionvil_e2e_pretrain_final/fashionvil_final.pth
   pretrained_state_mapping:
     image_encoder: image_encoder
