@@ -22,7 +22,7 @@ Extensive experiments show that our FashionViL achieves new state of the art acr
 
 ## Architecture
 
-![](/home/xh00414/Codes/mmf/assests/architecture.png)
+![](assests/architecture.png)
 
 FashionViL consists of an image encoder, a text encoder and a fusion encoder. Text encoder and fusion encoder *share the same parameters*. We adopt six pre-training tasks for richer representation learning
 
