@@ -4,13 +4,16 @@
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 <a href="https://mmf.sh/"><img alt="MMF" src="https://img.shields.io/badge/MMF-0054a6?logo=meta&logoColor=white"></a>
-[![Conference](http://img.shields.io/badge/ECCV-2022-4b44ce.svg)](https://eccv2022.ecva.net/)
-[![Paper](http://img.shields.io/badge/paper-arxiv.2207.08150-B31B1B.svg)](https://arxiv.org/abs/2207.08150)
+[![Conference](http://img.shields.io/badge/ECCV-2022-6790AC.svg)](https://eccv2022.ecva.net/)
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2207.08150-B31B1B.svg)](https://arxiv.org/abs/2207.08150)
+[![Talk](http://img.shields.io/badge/Talk-in_mandarin-303ECA.svg)](https://www.shenlanxueyuan.com/open/course/167)
+[![Poster](http://img.shields.io/badge/Poster-5F5F5F.svg)](https://brandonhanx.github.io/files/0940.pdf)
 
 </div>
 
 ## Updates
 
+- :grin: (01/11/2022) Updated talk and poster.
 - :relieved: (19/09/2022) Added detailed running instructions.
 - :blush: (19/07/2022) Code released!
 
