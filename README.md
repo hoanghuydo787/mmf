@@ -52,7 +52,7 @@ cd ..
 **Install extra dependencies**
 
 ```bash
-pip install wandb eniops
+pip install wandb einops
 ```
 
 **(Optional) Log in W&B**
